@@ -16,6 +16,9 @@ npm init @open-wc
 ```
 
 ## Scripts
+![Prueba Cells2](https://github.com/user-attachments/assets/b702c535-1ff8-44ad-967d-85ddeccf496f)
+![Prueba Cells1](https://github.com/user-attachments/assets/6f7f32f0-992d-4016-8daf-ba4bddffb4c5)
+![Prueba Cells](https://github.com/user-attachments/assets/d9fe858d-0b9e-4e8d-bde6-0b1434bc03aa)
 
 - `start` runs your app for development, reloading on file changes
 - `start:build` runs your app after it has been built using the build command
@@ -29,3 +32,7 @@ npm init @open-wc
 For most of the tools, the configuration is in the `package.json` to reduce the amount of files in your project.
 
 If you customize the configuration a lot, you can consider moving them to individual files.
+
+
+
+
